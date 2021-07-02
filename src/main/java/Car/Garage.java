@@ -17,8 +17,9 @@ public class Garage {
 	  }
 
   public void removeVehicle(int index) {
-		Object vehicle;
+		Object vehicle = null;
 		garage.remove(vehicle);
+		
 		
 	}
   public void clear() {
@@ -27,17 +28,17 @@ public class Garage {
 	  }
 
 public void setGarage(String string) {
-	// TODO Auto-generated method stub
+	
 	
 }
 
 public void setVehicle(String string) {
-	// TODO Auto-generated method stub
+
 	
 }
 
 public void setTruck(String string) {
-	// TODO Auto-generated method stub
+	
 	
 }
   
